@@ -1,5 +1,5 @@
-# Panoramic Stictcher
-wide-angle image constructed by compositing together a number of images with overlapping fields-of-views in a photographically plausible
+# Panoramic Stitcher - RANSAC implmentation 
+Wide-angle image constructed by compositing together a number of images with overlapping fields-of-views in a photographically plausible
 way using RANSAC Algorithm
 
 ## Usage
